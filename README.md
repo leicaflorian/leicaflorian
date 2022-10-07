@@ -4,14 +4,15 @@ a Full Stack Web and Mobile Developer from Italy. I'm also teaching this skills 
 
 I really love my job and the tech industry that allows us to create and build amazing things that, in some cases, can also improve peoples lives.
 
-## Contacts
+### ☎️ Contacts
 If you have any question or would like to collaborate, feel free to reach out:
 - 🌐 website: [leicaflorianrobert.dev](https://leicaflorianrobert.dev)
 - ✉️ email: [info@leicaflorianrobert.dev](mailto:info@leicaflorianrobert.dev)
 - 🔗 linkedin: [florian-robert-leica](https://www.linkedin.com/in/florian-robert-leica/)
 
+### 👽 Nerd Stuff
 <details>
-  <summary>👽 Nerd Stuff</summary>
+<summary>Prepare to be amazed!</summary>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leicaflorian&show_icons=true&locale=en&layout=compact&langs_count=8)
 
